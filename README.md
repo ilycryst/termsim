@@ -13,10 +13,14 @@ You can customize your:
 - font (Options: Arial, Calibri, Monospace (Space Mono), Minecraft, Wingdings, Papyrus)
 - Colours
 <img width="896" height="724" alt="image" src="https://github.com/user-attachments/assets/d6f1af74-59b0-498e-848b-7062da4884a3" />
-# Installation
-1. You go to releases and install the installer.exe
-2. Make a folder anywhere and give it whatever name.
-3. Use the installer and install it in that installation folder!
-4. Run termsim.exe (Will also be on your desktop)
 
+# Installation
+
+1. Make a folder anywhere on your PC.
+2. Open cmd in the folder or open cmd and enter `cd {your folder path}`.
+3. Run `git clone https://github.com/ilycryst/termsim.git`.
+4. Make another folder inside that folder or another folder—doesn't matter.
+5. Run the installer.exe to that specific folder and then run termsim.exe.
+6. Voila!
+# ----
 (Fully python based btw)
