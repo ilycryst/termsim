@@ -1,5 +1,5 @@
 # Termsim
-Simulator for the terminals in Hypixel Skyblock's Floor Seven Phase 3.
+Simulator for the terminals in Hypixel Skyblock's Floor Seven Phase 3. (windows only i dont care)
 # Features
 1. It has the following terminals:
 - Numbers
