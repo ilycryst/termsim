@@ -17,9 +17,11 @@ You can customize your:
 # Installation
 
 1. Make a folder anywhere on your PC.
-2. Open cmd in the folder or open cmd and enter `cd {your folder path}`.
-3. Run `git clone https://github.com/ilycryst/termsim.git`. (if you don't have git, download it from https://git-scm.com/install/windows)
-4. Run the installer.exe in the folder 'termsim' to any new or the same folder and then run termsim.exe.
-6. Voila! (This will also generate a config.json which is to be with the termsim.exe)
-# ----
-(Fully python based btw)
+2. Install the installer.exe.
+3. Run the installer and choose the path as that folder.
+4. Once it's finished, go to that folder,
+5. Run termsim.exe
+
+# Credits
+blame meowical for papyrus and wingdings;
+edited moody's code which is apparently mio's so yeah
