@@ -23,5 +23,6 @@ You can customize your:
 5. Run termsim.exe
 
 # Credits
-blame meowical for papyrus and wingdings;
+thank meowical for papyrus and wingdings;
+
 edited moody's code which is apparently mio's so yeah
