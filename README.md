@@ -19,8 +19,7 @@ You can customize your:
 1. Make a folder anywhere on your PC.
 2. Open cmd in the folder or open cmd and enter `cd {your folder path}`.
 3. Run `git clone https://github.com/ilycryst/termsim.git`.
-4. Make another folder inside that folder or another folder—doesn't matter.
-5. Run the installer.exe to that specific folder and then run termsim.exe.
-6. Voila!
+4. Run the installer.exe in the folder 'termsim' to any new or the same folder and then run termsim.exe.
+6. Voila! (This will also generate a config.json which is to be with the termsim.exe)
 # ----
 (Fully python based btw)
